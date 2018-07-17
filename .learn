@@ -1,1 +1,11 @@
-
+languages:
+  - html
+tags:
+  - elements
+  - headings
+  - typography
+  - images
+type:
+  - lab
+level: 1
+project: true
